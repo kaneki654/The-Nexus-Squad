@@ -1,6 +1,7 @@
 import random
 import pyfiglet
 from fucksyon import *
+from autosql import *
 
 class colors:
     whiteman = "\033[1;37m"
